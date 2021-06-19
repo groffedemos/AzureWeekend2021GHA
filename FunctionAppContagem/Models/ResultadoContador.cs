@@ -6,7 +6,7 @@ namespace FunctionAppContagem.Models
 {
     public class ResultadoContador
     {
-        private const string _VERSAO_FUNCTIONAPP = "1.0";
+        private const string _VERSAO_FUNCTIONAPP = "1.1";
         private static readonly string _SAUDACAO;
         private static readonly string _AVISO;
         private static readonly string _LOCAL;
